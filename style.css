@@ -40,7 +40,6 @@ body {
     gap: 0.5rem;
     justify-content: space-evenly;
     outline: 1px solid black;
-    border: none;
 }
 
 .chip-title {
